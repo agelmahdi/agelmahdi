@@ -4,7 +4,7 @@
 > *"Building scalable, secure, governed and autonomous AI ecosystems that unlock new, real-world opportunities."*
 
 ## 🎯 The Architect's Manifesto
-I bring over a decade of experience in software engineering and solutions architecture to the tech ecosystem. I don't just write code; I build ecosystems. I specialize in bridging the gap between complex technical execution and business strategy. My mission is simple: ensure every AI solution I design is scalable, reliable, and engineered to drive measurable growth while slashing operational costs.
+I bring over a decade of experience in software engineering, solutions architecture, and agile leadership to the tech ecosystem. I don't just write code; I build ecosystems. I specialize in bridging the gap between complex technical execution and business strategy. My mission is simple: ensure every AI solution I design is scalable, reliable, and engineered to drive measurable growth while slashing operational costs.
 
 ## 🚀 The Metrics
 * **Grounding & Accuracy:** Architected high-scale RAG systems that reduced domain-specific hallucination rates.
