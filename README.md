@@ -1,47 +1,49 @@
 # Ahmed Mahdi
 **Principal AI Architect**
 
-> *"Building scalable, secure, governed and autonomous AI ecosystems that unlock new, real-world opportunities."*
+> *"Building scalable, secure, governed, and autonomous AI ecosystems that unlock real-world business opportunities."*
 
 ## 🎯 The Architect's Manifesto
-I bring over a decade of experience in software engineering, solutions architecture, and agile leadership to the tech ecosystem. I don't just write code; I build ecosystems. I specialize in bridging the gap between complex technical execution and business strategy. My mission is simple: ensure every AI solution I design is scalable, reliable, and engineered to drive measurable growth while slashing operational costs.
+I bring over a decade of experience in software engineering, architecture, and agile leadership to the tech ecosystem. I don't just write code; I architect intelligent realities. Operating at the intersection of deep tech, distributed systems, and business strategy, I specialize in bridging the gap between complex AI capabilities and tangible business ROI.
 
 ## 🚀 The Metrics
-* **Grounding & Accuracy:** Architected high-scale RAG systems that reduced domain-specific hallucination rates.
-* **Model Specialization:** Fine-tuned LLMs using LoRA/QLoRA techniques, boosting in domain-specific accuracy and performance.
-* **Market Agility:** Designed reusable foundational frameworks that accelerated feature deployment and ensured consistent scalability.
-* **Cost Efficiency:** Spearheaded autonomous Agentic AI MVPs and infrastructure strategies that significantly slashed operational costs.
-* **Actionable Insights:** Developed robust deep learning and data pipelines to turn raw data into real-time analytics and foresight.
+* **Grounding & Accuracy:** Architected high-scale RAG systems that significantly reduced domain-specific hallucination rates.
+* **Model Specialization:** Fine-tuned LLMs using PEFT/LoRA techniques, boosting domain-specific accuracy and inference speed.
+* **Data Foundations:** Built scalable Data and automated ELT pipelines to eliminate AI bottlenecks.
+* **Cost Efficiency:** Spearheaded Agentic AI and IaC strategies, slashing operational cloud costs.
+* **Market Agility:** Designed reusable TOGAF-aligned frameworks for rapid, scalable deployments.
 
 ## 🧬 Architectural Pillars
-🔹 **AI Infrastructure:** Building fast, scalable LLM and multi-agent pipelines ready for real-world production.
+🔹 **Infrastructure:** Integrating high-throughput LLMs, complex RAG pipelines, and autonomous multi-agent workflows.
 
-🔹 **Data Architecture:** Designing secure, efficient data pipelines and vector databases to power AI autonomy.
+🔹 **DataOps:** Engineering secure pipelines, modern storage, and IaC as an unbreakable AI foundation.
 
-🔹 **Business Alignment:** Turning technical features into real-world business value and strategic growth.
+🔹 **Business Alignment:** Aligning technical architecture with overarching strategy to drive continuous ROI.
 
 ## ⚔️ Technical Arsenal
 
-### 🧠 Generative AI Engineering
-`RAG Pipelines` | `LLM Fine-tuning (LoRA/QLoRA, PEFT)` | `Agentic Workflows (LangGraph, CrewAI)` | `Model Evaluation (RAGAS/TruLens)`
+### 🧠 Generative AI & Agentic Systems
+`RAG Pipelines (LangChain, LlamaIndex)` | `Agentic Workflows (LangGraph, CrewAI)`  | `LLM Fine-tuning (LoRA/QLoRA)` | `Model Evaluation (RAGAS/TruLens)`
 
-### ⚙️ Core AI Engineering
-`PyTorch` | `TensorFlow` | `Keras` | `Scikit-learn` | `Predictive Modeling` | `Computer Vision`
+### ⚙️ Core AI & Machine Learning
+`PyTorch` | `TensorFlow` | `Scikit-learn` | `Predictive Modeling` | `Computer Vision`
 
-### 📊 Data & Analytics
-`System Architecture` | `ETL/ELT Pipelines` | `SQL` | `Pandas/NumPy` | `Data Modelling` | `Real-time Analytics`
+### 🏗️ Data Engineering & DataOps
+`Apache Kafka` | `Airflow / Dagster` | `Spark / Flink` | `Superset` | `dbt` | `Delta Lake / Iceberg` | `Terraform` | `Docker / Kubernetes`
 
-### ☁️ Ops & Cloud Architecture
-`AWS (SageMaker, Bedrock, EC2, Lambda)` | `Docker` | `CI/CD` | `Microservices (FastAPI)`
+### ☁️ Cloud & System Architecture
+`Enterprise Architecture (TOGAF)` | `AWS` | `Python` | `Microservices (FastAPI)` | `CI/CD Pipelines` 
 
 ## 🏅 Verified Credentials
-*Backed by industry-leading certifications from IBM.*
+*Backed by industry-leading certifications from DeepLearning.AI and IBM.*
 
 🏆 **[View my Verified Badges on Credly](https://www.credly.com/users/agelmahdi)**
+- **DeepLearning:** AI Data Engineering
 - **IBM:** RAG & Agentic AI
 - **IBM:** AI Engineering
 - **IBM:** Generative AI with LLMs
 - **IBM:** Data Science
+- **EDUCBA:** TOGAF 10
 
 ---
 
@@ -49,3 +51,5 @@ I bring over a decade of experience in software engineering, solutions architect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/agelmahdi)
 [![Credly](https://img.shields.io/badge/Credly-Verified_Badges-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/agelmahdi)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-success?style=for-the-badge&logo=maildotru)](mailto:agelmahdi@icloud.com)
+
+---
